@@ -13,16 +13,16 @@ const Navbar = () => {
 				<div class="items-center ml-5 mt-2 justify-between hidden w-full md:flex md:w-auto md:order-1">
 					<ul class="flex flex-col font-medium p-5 md:p-0 mt-[5cm] border rounded-lg md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0">
 						<li>
-						<a href="#" class="text-[20px] font-bold py-3 px-2 md:p-0 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:dark:text-blue-500" aria-current="page">Home</a>
+						<a href="#" class="text-[20px] font-bold py-3 px-2 md:p-0 text-white hover:underline bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:dark:text-blue-500" aria-current="page">Home</a>
 						</li>
 						<li>
-						<a href="#" class="text-[20px] font-bold py-3 px-2 md:p-0 text-gray-900 rounded md:hover:text-blue-700 md:dark:hover:text-blue-">About</a>
+						<a href="#" class="text-[20px] font-bold py-3 px-2 md:p-0 text-gray-900 hover:underline rounded md:hover:text-blue-700 md:dark:hover:text-blue-">About</a>
 						</li>
 						<li>
-						<a href="#" class="text-[20px] font-bold py-3 px-2 md:p-0 text-gray-900 rounded md:hover:text-blue-700 md:dark:hover:text-blue-">Services</a>
+						<a href="#" class="text-[20px] font-bold py-3 px-2 md:p-0 text-gray-900 hover:underline rounded md:hover:text-blue-700 md:dark:hover:text-blue-">Services</a>
 						</li>
 						<li>
-						<a href="#" class="text-[20px] font-bold py-3 px-2 md:p-0 text-gray-900 rounded md:hover:text-blue-700 md:dark:hover:text-blue-">Contact</a>
+						<a href="#" class="text-[20px] font-bold py-3 px-2 md:p-0 text-gray-900 hover:underline rounded md:hover:text-blue-700 md:dark:hover:text-blue-">Contact</a>
 						</li>
 					</ul>
         		</div>

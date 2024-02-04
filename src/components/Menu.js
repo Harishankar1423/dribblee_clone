@@ -6,15 +6,15 @@ const Menu = () => {
         <buttion className="border border-gray-400 rounded-md h-6 w-20 text-center">Popular</buttion>
         <div className="w-[800px]">
             <ul className="flex justify-between">
-                <li className="hover:text-black curser-pointer hover:font-bold">All</li>
-                <li className="hover:text-black curser-pointer hover:font-bold">Animation</li>
-                <li className="hover:text-black curser-pointer hover:font-bold">Branding</li>
-                <li className="hover:text-black curser-pointer hover:font-bold">Illustration</li>
-                <li className="hover:text-black curser-pointer hover:font-bold">Mobile</li>
-                <li className="hover:text-black curser-pointer hover:font-bold">Print</li>
-                <li className="hover:text-black curser-pointer hover:font-bold">Product Design</li>
-                <li className="hover:text-black curser-pointer hover:font-bold">Typography</li>
-                <li className="hover:text-black curser-pointer hover:font-bold">Web Design</li>
+                <li className="hover:text-black curser-pointer hover:font-bold hover:underline">All</li>
+                <li className="hover:text-black curser-pointer hover:font-bold hover:underline">Animation</li>
+                <li className="hover:text-black curser-pointer hover:font-bold hover:underline">Branding</li>
+                <li className="hover:text-black curser-pointer hover:font-bold hover:underline">Illustration</li>
+                <li className="hover:text-black curser-pointer hover:font-bold hover:underline">Mobile</li>
+                <li className="hover:text-black curser-pointer hover:font-bold hover:underline">Print</li>
+                <li className="hover:text-black curser-pointer hover:font-bold hover:underline">Product Design</li>
+                <li className="hover:text-black curser-pointer hover:font-bold hover:underline">Typography</li>
+                <li className="hover:text-black curser-pointer hover:font-bold hover:underline">Web Design</li>
             </ul>
         </div>
         <button>
